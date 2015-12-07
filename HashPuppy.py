@@ -6,7 +6,6 @@ import os
 
 # standard intro header with name and py version
 def header():
-
     print("HashPuppy - Quick Hashing Utility")
     print("Python v{0}\n".format(sys.version[:5]))
     return
